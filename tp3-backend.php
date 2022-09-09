@@ -26,7 +26,6 @@
     <br>
     <hr>
     <?php 
-    $valor3 = 15;
     if ($valor3 > 10 || $valor3 < 2 ) {echo "$valor3 es mayor a 10";}
     else {echo "$valor3 no es menor a 2";}?>
     <br>
