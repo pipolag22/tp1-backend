@@ -15,7 +15,7 @@
     <hr>
     <?php 
     $valor2 = 8;
-    if ($valor2 > 1 && $valor2 > 10) {echo " $valor2 es mayor a 1 y menor a 10";}
+    if ($valor2 > 1 && $valor2 < 10) {echo " $valor2 es mayor a 1 y menor a 10";}
     else {echo " $valor2 no es mayor a 1 y menor a 10";}?>
     <br>
     <hr>
